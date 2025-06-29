@@ -1,0 +1,6 @@
+DUPLICATE en [en]
+biz.softfor.i18ngen.I18nGen.<clinit>(I18nGen.java:52): English
+biz.softfor.i18ngen.I18nGenTest.<clinit>(I18nGenTest.java:32): English
+
+MISSING uk [Use_this_syntax_if_you_need_support_for_more_than_10_languages]
+biz.softfor.i18ngen.I18nGenTest.<clinit>(I18nGenTest.java:36)
