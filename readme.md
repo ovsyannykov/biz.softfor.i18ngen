@@ -7,7 +7,7 @@
 
 <h1 align="center">biz.softfor.i18ngen</h1>
 
-![Generate it!](biz.softfor.i18ngen/readme.png)
+![Generate it!](readme.png)
 
 — is a utility for generating localization messages files. Using it, you:
 1. Group all translations corresponding to one key in one place, thanks to which
@@ -62,7 +62,7 @@ and annotate it with the @I18n annotation.
 So, we have grouped our translations by keys, classes and artifacts. But how
 to read them all and generate the files we need? **gmavenplus-plugin** will
 help us with this! In the pom-file of your multilingual application in the
-**<build><plugins>** section, add the following code:
+```<build><plugins>``` section, add the following code:
 ```xml
 <build>
   <plugins>
